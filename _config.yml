@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://sim108-data.github.io
+# url:                   https://username.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
- baseurl:               '//panda-pied-story'
+# baseurl:               '/hydejack-starter-kit'
 
 
 # General settings
@@ -20,7 +20,7 @@ url:                   https://sim108-data.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Time,temperature and mobility
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,8 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               A story where the reader go through all the discovery made by three students of EPFL 
+  learning Data science.
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,11 +50,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
+  - title:             Where it started?
+    url:               https://drive.google.com/file/d/1r94_60ajzd9feLF6W1dTVQ6xYC6FYuwP/view?usp=sharing
+  - title:             Our travel through datas
     url:               /docs/
-  - title:             About
+  - title:             About us
     url:               /about/
 
 # Add links to the footer.
@@ -105,7 +106,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/blog/wade-lambert.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

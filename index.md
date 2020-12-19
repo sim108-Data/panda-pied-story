@@ -84,7 +84,7 @@ Our next step was to split our data into different seasonal groups and to look a
 
 
 If there is a clear separation here then we have some evidence that there are differences between the seasons. 
-![seasons](..\assets\img\seasons_pdf.png){:.lead width="800" height="500" loading="lazy"}
+![seasons](..\assets\img\seasons_pdf.png)
 Comparaison between seasons.
 {:.figcaption}
 
@@ -95,7 +95,7 @@ We show how the average temperature changes by season as well as the precipitati
 ## Average temperature by season plot
 
 
-![temperature](..\assets\img\season_temp_new.png){:.lead width="800" height="500" loading="lazy"}
+![temperature](..\assets\img\season_temp_new.png)
 The average seasonal precipitation level over the USA. Data taken from averaging the daily gridded data
 {:.figcaption}
 
@@ -103,7 +103,7 @@ The average seasonal precipitation level over the USA. Data taken from averaging
 ## Average rain by season
 
 
-![rain](..\assets\img\season_pr_new.png){:.lead width="800" height="500" loading="lazy"}
+![rain](..\assets\img\season_pr_new.png)
 The average seasonal precipitation level over the USA. Data taken from averaging the daily gridded data.
 {:.figcaption}
 
@@ -184,7 +184,7 @@ For this end, we have plotted the weekly average of the traveled distance of use
  To verify this observation, we carried out proper statistical tests (considering non-normal distribution of the data)
  and double checked our speculation (the influence of holiday on travel metrics such mean distance traveled) with Kruskal–Wallis test.
 
-![holiday](..\assets\img\holiday.png){:.lead width="800" height="500" loading="lazy"}
+![holiday](..\assets\img\holiday.png)
 
 
 # Conclusion

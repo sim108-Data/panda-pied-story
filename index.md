@@ -130,8 +130,7 @@ In this section we take a look into the weather's impact on mobility in the Unit
 This first graph is exploratory and shows in color the current average temperature by region over the selected period. The height of the bars represents the average for that area of the statistic that we introduced above. (average distance from home by user by day) You can use this to look at temperature and distance traveled in the United States and explore the data yourself!
 
 
-<iframe src="..\assets\plots\coolplot.html" width="100%" height="600px"></iframe>
-
+<iframe src="C:\Users\41789\anaconda3\envs\ada\panda-pied-story\assets\plots\coolplot.html" width="100%" height="600px"></iframe>
 
 We also take a more rigorous treatment of the data by splitting our data into groups and applying a statistical test to tell us if there is a significant difference between the groups. 
 We also take another step in limiting all check-ins to be within 100km of the users house.

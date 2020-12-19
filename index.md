@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our travel through datas
+title: Our travel through Data
 ---
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
@@ -84,8 +84,6 @@ Our next step was to split our data into different seasonal groups and to look a
 
 
 If there is a clear separation here then we have some evidence that there are differences between the seasons. 
-{%include seasons_pdf.html%}
-
 ![seasons](..\assets\img\seasons_pdf.png){:.lead width="800" height="500" loading="lazy"}
 Comparaison between seasons.
 {:.figcaption}
@@ -96,7 +94,7 @@ We show how the average temperature changes by season as well as the precipitati
 
 ## Average temperature by season plot
 
-{%include season_temp_new.html%}
+
 ![temperature](..\assets\img\season_temp_new.png){:.lead width="800" height="500" loading="lazy"}
 The average seasonal precipitation level over the USA. Data taken from averaging the daily gridded data
 {:.figcaption}
@@ -104,7 +102,7 @@ The average seasonal precipitation level over the USA. Data taken from averaging
 
 ## Average rain by season
 
-{%include season_pr_new.html%}
+
 ![rain](..\assets\img\season_pr_new.png){:.lead width="800" height="500" loading="lazy"}
 The average seasonal precipitation level over the USA. Data taken from averaging the daily gridded data.
 {:.figcaption}
@@ -186,7 +184,6 @@ For this end, we have plotted the weekly average of the traveled distance of use
  To verify this observation, we carried out proper statistical tests (considering non-normal distribution of the data)
  and double checked our speculation (the influence of holiday on travel metrics such mean distance traveled) with Kruskal–Wallis test.
 
-{%include holiday.html%}
 ![holiday](..\assets\img\holiday.png){:.lead width="800" height="500" loading="lazy"}
 
 
